@@ -1,0 +1,9 @@
+Relation,Query,Expected,Top prediction,Expected rank,Top-1
+gender,king - man + woman,queen,queen (0.783),1,Y
+capital -> country,france - paris + tokyo,japan,japan (0.879),1,Y
+country -> capital,paris - france + japan,tokyo,tokyo (0.892),1,Y
+comparative,bigger - big + small,smaller,larger (0.878),2,n
+past tense (irregular),walked - walk + run,ran,went (0.734),2,n
+irregular comparative,better - good + bad,worse,worse (0.839),1,Y
+gendered profession,actor - man + woman,actress,actress (0.916),1,Y
+country -> capital (low resource),rome - italy + nepal,kathmandu,kathmandu (0.767),1,Y

@@ -1,0 +1,8 @@
+Sentence A,Sentence B,Relation,GloVe (avg),BERT (mean-pool),Difference
+The cat sat on the mat.,A feline rested on the rug.,paraphrase,0.9110754728317261,0.8342429995536804,-0.07683247327804565
+He deposited money at the bank.,She saved cash at the bank.,paraphrase,0.9639251828193665,0.7795445322990417,-0.1843806505203247
+The movie was fantastic.,The film was excellent.,paraphrase,0.9543938636779785,0.8454254269599915,-0.10896843671798706
+The dog chased the cat.,The cat chased the dog.,"same words, reversed",1.0,0.9963976144790649,-0.0036023855209350586
+I love this restaurant.,I hate this restaurant.,opposite meaning,0.9654766917228699,0.8882657885551453,-0.07721090316772461
+He deposited money at the bank.,We picnicked on the river bank.,"same word, different sense",0.8860061764717102,0.63811856508255,-0.24788761138916016
+The stock market crashed today.,My favourite colour is blue.,unrelated,0.6522068977355957,0.564764678478241,-0.08744221925735474
