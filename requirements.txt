@@ -1,0 +1,26 @@
+# NLP Sandbox — AIAC 536
+#
+# Pinned for macOS x86_64 (Intel), where PyTorch stopped shipping wheels at 2.2.2.
+# torch 2.2.2 was built against NumPy 1.x, so numpy<2 is required, and transformers
+# must stay on the 4.x line (5.x requires torch>=2.5).
+#
+#   uv venv --python 3.12 .venv
+#   VIRTUAL_ENV=.venv uv pip install -r requirements.txt
+#   .venv/bin/python -m spacy download en_core_web_sm
+
+numpy<2
+scipy<1.14
+
+jupyter
+ipykernel
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+spacy>=3.8
+nltk>=3.9
+
+torch==2.2.2
+transformers>=4.44,<5
+gensim==4.3.3

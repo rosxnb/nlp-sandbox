@@ -1,0 +1,12 @@
+.DS_Store
+
+.questions/
+.venv/
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Trained model weights and vector dumps are regenerable from the notebooks
+assignment-4-word-embeddings/output/*.pt
+assignment-4-word-embeddings/output/*.txt
