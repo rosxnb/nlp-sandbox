@@ -8,12 +8,12 @@ Processing).
 
 One folder per question paper. Each folder holds its own question PDF alongside the solution.
 
-| # | Assignment | Source | Deliverable | Status |
-|---|---|---|---|---|
-| 1 | [POS Extraction + NER](assignment-1-pos-and-ner) | [`assignment 1.pdf`](assignment-1-pos-and-ner/assignment%201.pdf) | 2 notebooks, 2 CSVs | [x] |
-| 2 | [NLP Fundamentals — Exercises 1–11](assignment-2-nlp-fundamentals) | [`assignment 2.pdf`](assignment-2-nlp-fundamentals/assignment%202.pdf) | 1 notebook, 4 CSVs | [x] |
-| 3 | [Word Embeddings](assignment-3-word-embeddings) | [`assignment 3.pdf`](assignment-3-word-embeddings/assignment%203.pdf) | 3 notebooks | [x] |
-| 4 | [RNN & BPTT](assignment-4-rnn-handwritten) | [`RNN_Assignment_BPTT.pdf`](assignment-4-rnn-handwritten/RNN_Assignment_BPTT.pdf) | Handwritten PDF + `rnn_bptt.py` | [x] |
+| # | Assignment                                                         | Source                                                                            | Status |
+|---|--------------------------------------------------------------------|-----------------------------------------------------------------------------------|--------|
+| 1 | [POS Extraction + NER](assignment-1-pos-and-ner)                   | [`assignment 1.pdf`](assignment-1-pos-and-ner/assignment%201.pdf)                 | ✅     |
+| 2 | [NLP Fundamentals — Exercises 1–11](assignment-2-nlp-fundamentals) | [`assignment 2.pdf`](assignment-2-nlp-fundamentals/assignment%202.pdf)            | ✅     |
+| 3 | [Word Embeddings](assignment-3-word-embeddings)                    | [`assignment 3.pdf`](assignment-3-word-embeddings/assignment%203.pdf)             | ✅     |
+| 4 | [RNN & BPTT](assignment-4-rnn-handwritten)                         | [`assignment 4.pdf`](assignment-4-rnn-handwritten/RNN_Assignment_BPTT.pdf)        | ✅     |
 
 
 ## Setup
