@@ -1,0 +1,15 @@
+Entity_Type,Mentions,Share_%,Unique_Entities,Meaning,Examples
+PERSON,31,23.7,14,"People, including fictional","Behring Breivik, Haakon, Harald, Høiby"
+GPE,28,21.4,14,"Countries, cities, states","Afghanistan, Asker, Britain, Canada"
+DATE,24,18.3,24,Absolute or relative dates or periods,"1370, 1905, 1928, 1937"
+NORP,20,15.3,11,Nationalities or religious or political groups,"American, British, European, German"
+ORDINAL,5,3.8,2,"""first"", ""second"", etc.","first, second"
+ORG,5,3.8,4,"Companies, agencies, institutions, etc.","Haakon, Oxford University, Ragnhild, the National Hospital"
+CARDINAL,4,3.1,4,Numerals that do not fall under another type,"5.5 million, 77, millions, two"
+EVENT,4,3.1,3,"Named hurricanes, battles, wars, sports events, etc.","Olympics, World War II, the World Championships"
+FAC,3,2.3,3,"Buildings, airports, highways, bridges, etc.","King Haakon VIII, Olympic, the White House"
+LOC,3,2.3,1,"Non-GPE locations, mountain ranges, bodies of water",Europe
+LANGUAGE,1,0.8,1,Any named language,Astrid
+LAW,1,0.8,1,Named documents made into laws.,The Norwegian Constitution
+PRODUCT,1,0.8,1,"Objects, vehicles, foods, etc. (not services)",Crown Princess Mette-Marit
+TIME,1,0.8,1,Times smaller than a day,6:35 a.m.

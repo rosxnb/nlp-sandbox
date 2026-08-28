@@ -1,0 +1,597 @@
+Word,POS_Tag,Coarse_Tag,Category,Lemma,Tag_Meaning,Sentence_No
+Hawk,NNP,PROPN,Proper Noun,hawk,"noun, proper singular",1
+Fire,NNP,PROPN,Proper Noun,fire,"noun, proper singular",1
+threatening,VBG,VERB,Verb,threaten,"verb, gerund or present participle",1
+Reno,NNP,PROPN,Proper Noun,reno,"noun, proper singular",1
+Nevada,NNP,PROPN,Proper Noun,nevada,"noun, proper singular",1
+wildfire,NN,NOUN,Noun,wildfire,"noun, singular or mass",1
+West,NNP,PROPN,Proper Noun,west,"noun, proper singular",1
+weeks,NNS,NOUN,Noun,week,"noun, plural",1
+investigators,NNS,NOUN,Noun,investigator,"noun, plural",1
+believe,VBP,VERB,Verb,believe,"verb, non-3rd person singular present",1
+human,NN,NOUN,Noun,human,"noun, singular or mass",1
+caused,VBN,VERB,Verb,cause,"verb, past participle",1
+moniker,NN,NOUN,Noun,moniker,"noun, singular or mass",2
+fits,VBZ,VERB,Verb,fit,"verb, 3rd person singular present",2
+pattern,NN,NOUN,Noun,pattern,"noun, singular or mass",2
+data,NNS,NOUN,Noun,datum,"noun, plural",2
+show,VBP,VERB,Verb,show,"verb, non-3rd person singular present",2
+quarters,NNS,NOUN,Noun,quarter,"noun, plural",2
+wildfires,NNS,NOUN,Noun,wildfire,"noun, plural",2
+U.S.,NNP,PROPN,Proper Noun,u.s.,"noun, proper singular",2
+tend,VBP,VERB,Verb,tend,"verb, non-3rd person singular present",2
+started,VBN,VERB,Verb,start,"verb, past participle",2
+people,NNS,NOUN,Noun,people,"noun, plural",2
+negligence,NN,NOUN,Noun,negligence,"noun, singular or mass",2
+campfire,NN,NOUN,Noun,campfire,"noun, singular or mass",2
+extinguished,VBN,VERB,Verb,extinguish,"verb, past participle",2
+downed,VBN,VERB,Verb,down,"verb, past participle",2
+power,NN,NOUN,Noun,power,"noun, singular or mass",2
+line,NN,NOUN,Noun,line,"noun, singular or mass",2
+arson,NN,NOUN,Noun,arson,"noun, singular or mass",2
+are,VBP,VERB,Verb,be,"verb, non-3rd person singular present",3
+people,NNS,NOUN,Noun,people,"noun, plural",3
+living,VBG,VERB,Verb,live,"verb, gerund or present participle",3
+fire,NN,NOUN,Noun,fire,"noun, singular or mass",3
+landscapes,NNS,NOUN,Noun,landscape,"noun, plural",3
+year,NN,NOUN,Noun,year,"noun, singular or mass",3
+people,NNS,NOUN,Noun,people,"noun, plural",3
+ignition,NN,NOUN,Noun,ignition,"noun, singular or mass",3
+source,NN,NOUN,Noun,source,"noun, singular or mass",3
+says,VBZ,VERB,Verb,say,"verb, 3rd person singular present",3
+Kelly,NNP,PROPN,Proper Noun,kelly,"noun, proper singular",3
+Pohl,NNP,PROPN,Proper Noun,pohl,"noun, proper singular",3
+researcher,NN,NOUN,Noun,researcher,"noun, singular or mass",3
+Headwaters,NNP,PROPN,Proper Noun,headwaters,"noun, proper singular",3
+Economics,NNP,PROPN,Proper Noun,economics,"noun, proper singular",3
+Montana,NNP,PROPN,Proper Noun,montana,"noun, proper singular",3
+based,VBN,VERB,Verb,base,"verb, past participle",3
+think,NN,NOUN,Noun,think,"noun, singular or mass",3
+tank,NN,NOUN,Noun,tank,"noun, singular or mass",3
+studies,NNS,NOUN,Noun,study,"noun, plural",4
+California,NNP,PROPN,Proper Noun,california,"noun, proper singular",4
+show,VBP,VERB,Verb,show,"verb, non-3rd person singular present",4
+human,NN,NOUN,Noun,human,"noun, singular or mass",4
+caused,VBN,VERB,Verb,cause,"verb, past participle",4
+fires,NNS,NOUN,Noun,fire,"noun, plural",4
+blazes,NNS,NOUN,Noun,blaze,"noun, plural",4
+think,VBP,VERB,Verb,think,"verb, non-3rd person singular present",4
+power,NN,NOUN,Noun,power,"noun, singular or mass",4
+lines,NNS,NOUN,Noun,line,"noun, plural",4
+ignited,VBD,VERB,Verb,ignite,"verb, past tense",4
+Eaton,NNP,PROPN,Proper Noun,eaton,"noun, proper singular",4
+Fire,NNP,PROPN,Proper Noun,fire,"noun, proper singular",4
+Los,NNP,PROPN,Proper Noun,los,"noun, proper singular",4
+Angeles,NNP,PROPN,Proper Noun,angeles,"noun, proper singular",4
+County,NNP,PROPN,Proper Noun,county,"noun, proper singular",4
+Camp,NNP,PROPN,Proper Noun,camp,"noun, proper singular",4
+Fire,NNP,PROPN,Proper Noun,fire,"noun, proper singular",4
+Paradise,NNP,PROPN,Proper Noun,paradise,"noun, proper singular",4
+California,NNP,PROPN,Proper Noun,california,"noun, proper singular",4
+Federal,NNP,PROPN,Proper Noun,federal,"noun, proper singular",5
+data,NNS,NOUN,Noun,datum,"noun, plural",5
+compiled,VBN,VERB,Verb,compile,"verb, past participle",5
+Headwaters,NNP,PROPN,Proper Noun,headwaters,"noun, proper singular",5
+Economics,NNP,PROPN,Proper Noun,economics,"noun, proper singular",5
+show,VBP,VERB,Verb,show,"verb, non-3rd person singular present",5
+arson,NN,NOUN,Noun,arson,"noun, singular or mass",5
+trending,VBG,VERB,Verb,trend,"verb, gerund or present participle",5
+1990s,NNS,NOUN,Noun,1990,"noun, plural",5
+problem,NN,NOUN,Noun,problem,"noun, singular or mass",5
+Authorities,NNS,NOUN,Noun,authority,"noun, plural",6
+Spokane,NNP,PROPN,Proper Noun,spokane,"noun, proper singular",6
+Washington,NNP,PROPN,Proper Noun,washington,"noun, proper singular",6
+arrested,VBD,VERB,Verb,arrest,"verb, past tense",6
+year,NN,NOUN,Noun,year,"noun, singular or mass",6
+Aaron,NNP,PROPN,Proper Noun,aaron,"noun, proper singular",6
+Farinacci,NNP,PROPN,Proper Noun,farinacci,"noun, proper singular",6
+starting,VBG,VERB,Verb,start,"verb, gerund or present participle",6
+Old,NNP,PROPN,Proper Noun,old,"noun, proper singular",6
+Trails,NNP,PROPN,Proper Noun,trails,"noun, proper singular",6
+Fire,NNP,PROPN,Proper Noun,fire,"noun, proper singular",6
+August,NNP,PROPN,Proper Noun,august,"noun, proper singular",6
+became,VBD,VERB,Verb,become,"verb, past tense",6
+wildfires,NNS,NOUN,Noun,wildfire,"noun, plural",6
+state,NN,NOUN,Noun,state,"noun, singular or mass",6
+history,NN,NOUN,Noun,history,"noun, singular or mass",6
+Court,NN,NOUN,Noun,court,"noun, singular or mass",7
+documents,NNS,NOUN,Noun,document,"noun, plural",7
+show,VBP,VERB,Verb,show,"verb, non-3rd person singular present",7
+Farinacci,NNP,PROPN,Proper Noun,farinacci,"noun, proper singular",7
+told,VBD,VERB,Verb,tell,"verb, past tense",7
+police,NNS,NOUN,Noun,police,"noun, plural",7
+started,VBD,VERB,Verb,start,"verb, past tense",7
+dozen,NN,NOUN,Noun,dozen,"noun, singular or mass",7
+wildfires,NNS,NOUN,Noun,wildfire,"noun, plural",7
+including,VBG,VERB,Verb,include,"verb, gerund or present participle",7
+Old,NNP,PROPN,Proper Noun,old,"noun, proper singular",7
+Trails,NNP,PROPN,Proper Noun,trails,"noun, proper singular",7
+Authorities,NNS,NOUN,Noun,authority,"noun, plural",8
+say,VBP,VERB,Verb,say,"verb, non-3rd person singular present",8
+watched,VBD,VERB,Verb,watch,"verb, past tense",8
+fire,NN,NOUN,Noun,fire,"noun, singular or mass",8
+weather,NN,NOUN,Noun,weather,"noun, singular or mass",8
+apps,NNS,NOUN,Noun,app,"noun, plural",8
+waited,VBD,VERB,Verb,wait,"verb, past tense",8
+conditions,NNS,NOUN,Noun,condition,"noun, plural",8
+do,VB,VERB,Verb,do,"verb, base form",8
+damage,NN,NOUN,Noun,damage,"noun, singular or mass",8
+weekend,NN,NOUN,Noun,weekend,"noun, singular or mass",9
+were,VBD,VERB,Verb,be,"verb, past tense",9
+warnings,NNS,NOUN,Noun,warning,"noun, plural",9
+heat,NN,NOUN,Noun,heat,"noun, singular or mass",9
+wind,NN,NOUN,Noun,wind,"noun, singular or mass",9
+Northwest,NNP,PROPN,Proper Noun,northwest,"noun, proper singular",9
+origin,NN,NOUN,Noun,origin,"noun, singular or mass",10
+fire,NN,NOUN,Noun,fire,"noun, singular or mass",10
+witnesses,NNS,NOUN,Noun,witness,"noun, plural",10
+seen,VBN,VERB,Verb,see,"verb, past participle",10
+Mr.,NNP,PROPN,Proper Noun,mr.,"noun, proper singular",10
+Farinacci,NNP,PROPN,Proper Noun,farinacci,"noun, proper singular",10
+kneeling,NN,NOUN,Noun,kneeling,"noun, singular or mass",10
+grass,NN,NOUN,Noun,grass,"noun, singular or mass",10
+day,NN,NOUN,Noun,day,"noun, singular or mass",10
+said,VBD,VERB,Verb,say,"verb, past tense",10
+John,NNP,PROPN,Proper Noun,john,"noun, proper singular",10
+Nowels,NNP,PROPN,Proper Noun,nowels,"noun, proper singular",10
+Spokane,NNP,PROPN,Proper Noun,spokane,"noun, proper singular",10
+county,NN,NOUN,Noun,county,"noun, singular or mass",10
+sheriff,NN,NOUN,Noun,sheriff,"noun, singular or mass",10
+news,NN,NOUN,Noun,news,"noun, singular or mass",10
+conference,NN,NOUN,Noun,conference,"noun, singular or mass",10
+announcing,VBG,VERB,Verb,announce,"verb, gerund or present participle",10
+arrest,NN,NOUN,Noun,arrest,"noun, singular or mass",10
+Farinacci,NNP,PROPN,Proper Noun,farinacci,"noun, proper singular",11
+faces,VBZ,VERB,Verb,face,"verb, 3rd person singular present",11
+arson,NN,NOUN,Noun,arson,"noun, singular or mass",11
+charges,NNS,NOUN,Noun,charge,"noun, plural",11
+wildfires,NNS,NOUN,Noun,wildfire,"noun, plural",11
+year,NN,NOUN,Noun,year,"noun, singular or mass",11
+Spokane,NNP,PROPN,Proper Noun,spokane,"noun, proper singular",11
+Reno,NNP,PROPN,Proper Noun,reno,"noun, proper singular",12
+investigators,NNS,NOUN,Noun,investigator,"noun, plural",12
+trying,VBG,VERB,Verb,try,"verb, gerund or present participle",12
+pinpoint,VB,VERB,Verb,pinpoint,"verb, base form",12
+cause,NN,NOUN,Noun,cause,"noun, singular or mass",12
+Hawk,NNP,PROPN,Proper Noun,hawk,"noun, proper singular",12
+Fire,NNP,PROPN,Proper Noun,fire,"noun, proper singular",12
+saying,VBG,VERB,Verb,say,"verb, gerund or present participle",12
+believe,VBP,VERB,Verb,believe,"verb, non-3rd person singular present",12
+human,NN,NOUN,Noun,human,"noun, singular or mass",12
+caused,VBN,VERB,Verb,cause,"verb, past participle",12
+West,NNP,PROPN,Proper Noun,west,"noun, proper singular",13
+cities,NNS,NOUN,Noun,city,"noun, plural",13
+seen,VBN,VERB,Verb,see,"verb, past participle",13
+growth,NN,NOUN,Noun,growth,"noun, singular or mass",13
+decades,NNS,NOUN,Noun,decade,"noun, plural",13
+fire,NN,NOUN,Noun,fire,"noun, singular or mass",13
+managers,NNS,NOUN,Noun,manager,"noun, plural",13
+call,VBP,VERB,Verb,call,"verb, non-3rd person singular present",13
+wildland,NN,NOUN,Noun,wildland,"noun, singular or mass",13
+interface,NN,NOUN,Noun,interface,"noun, singular or mass",13
+ignition,NN,NOUN,Noun,ignition,"noun, singular or mass",14
+source,NN,NOUN,Noun,source,"noun, singular or mass",14
+Pohl,NNP,PROPN,Proper Noun,pohl,"noun, proper singular",14
+says,VBZ,VERB,Verb,say,"verb, 3rd person singular present",14
+people,NNS,NOUN,Noun,people,"noun, plural",14
+tend,VBP,VERB,Verb,tend,"verb, non-3rd person singular present",14
+start,VB,VERB,Verb,start,"verb, base form",14
+wildfires,NNS,NOUN,Noun,wildfire,"noun, plural",14
+areas,NNS,NOUN,Noun,area,"noun, plural",14
+people,NNS,NOUN,Noun,people,"noun, plural",15
+moving,VBG,VERB,Verb,move,"verb, gerund or present participle",15
+places,NNS,NOUN,Noun,place,"noun, plural",15
+says,VBZ,VERB,Verb,say,"verb, 3rd person singular present",15
+growth,NN,NOUN,Noun,growth,"noun, singular or mass",16
+drive,VB,VERB,Verb,drive,"verb, base form",16
+human,NN,NOUN,Noun,human,"noun, singular or mass",16
+caused,VBN,VERB,Verb,cause,"verb, past participle",16
+ignitions,NNS,NOUN,Noun,ignition,"noun, plural",16
+tend,VBP,VERB,Verb,tend,"verb, non-3rd person singular present",17
+ignite,VB,VERB,Verb,ignite,"verb, base form",17
+forests,NNS,NOUN,Noun,forest,"noun, plural",17
+wildfires,NNS,NOUN,Noun,wildfire,"noun, plural",17
+acres,NNS,NOUN,Noun,acre,"noun, plural",18
+burned,VBN,VERB,Verb,burn,"verb, past participle",18
+Oregon,NNP,PROPN,Proper Noun,oregon,"noun, proper singular",18
+summer,NN,NOUN,Noun,summer,"noun, singular or mass",18
+fires,NNS,NOUN,Noun,fire,"noun, plural",18
+sparked,VBN,VERB,Verb,spark,"verb, past participle",18
+lightning,NN,NOUN,Noun,lightning,"noun, singular or mass",18
+strikes,NNS,NOUN,Noun,strike,"noun, plural",18
+Andrés,NNP,PROPN,Proper Noun,andrés,"noun, proper singular",19
+Holz,NNP,PROPN,Proper Noun,holz,"noun, proper singular",19
+climate,NN,NOUN,Noun,climate,"noun, singular or mass",19
+scientist,NN,NOUN,Noun,scientist,"noun, singular or mass",19
+Portland,NNP,PROPN,Proper Noun,portland,"noun, proper singular",19
+State,NNP,PROPN,Proper Noun,state,"noun, proper singular",19
+University,NNP,PROPN,Proper Noun,university,"noun, proper singular",19
+says,VBZ,VERB,Verb,say,"verb, 3rd person singular present",19
+American,NNP,PROPN,Proper Noun,american,"noun, proper singular",19
+West,NNP,PROPN,Proper Noun,west,"noun, proper singular",19
+background,NN,NOUN,Noun,background,"noun, singular or mass",20
+have,VBP,VERB,Verb,have,"verb, non-3rd person singular present",20
+climate,NN,NOUN,Noun,climate,"noun, singular or mass",20
+change,NN,NOUN,Noun,change,"noun, singular or mass",20
+makes,VBZ,VERB,Verb,make,"verb, 3rd person singular present",20
+vegetation,NN,NOUN,Noun,vegetation,"noun, singular or mass",20
+drier,NN,NOUN,Noun,drier,"noun, singular or mass",20
+Holz,NNP,PROPN,Proper Noun,holz,"noun, proper singular",20
+says,VBZ,VERB,Verb,say,"verb, 3rd person singular present",20
+have,VBP,VERB,Verb,have,"verb, non-3rd person singular present",21
+season,NN,NOUN,Noun,season,"noun, singular or mass",21
+fuels,NNS,NOUN,Noun,fuel,"noun, plural",21
+lot,NN,NOUN,Noun,lot,"noun, singular or mass",21
+Wildland,NNP,PROPN,Proper Noun,wildland,"noun, proper singular",22
+firefighters,NNS,NOUN,Noun,firefighter,"noun, plural",22
+gotten,VBN,VERB,Verb,get,"verb, past participle",22
+containing,VBG,VERB,Verb,contain,"verb, gerund or present participle",22
+caused,VBN,VERB,Verb,cause,"verb, past participle",22
+fires,NNS,NOUN,Noun,fire,"noun, plural",22
+fraction,NN,NOUN,Noun,fraction,"noun, singular or mass",23
+escape,VBP,VERB,Verb,escape,"verb, non-3rd person singular present",23
+dominate,VB,VERB,Verb,dominate,"verb, base form",23
+headlines,NNS,NOUN,Noun,headline,"noun, plural",23
+Researchers,NNS,NOUN,Noun,researcher,"noun, plural",24
+point,VBP,VERB,Verb,point,"verb, non-3rd person singular present",24
+awareness,NN,NOUN,Noun,awareness,"noun, singular or mass",24
+today,NN,NOUN,Noun,today,"noun, singular or mass",24
+fire,NN,NOUN,Noun,fire,"noun, singular or mass",24
+risks,NNS,NOUN,Noun,risk,"noun, plural",24
+factor,NN,NOUN,Noun,factor,"noun, singular or mass",24
+keeping,VBG,VERB,Verb,keep,"verb, gerund or present participle",24
+fires,NNS,NOUN,Noun,fire,"noun, plural",24
+Holz,NNP,PROPN,Proper Noun,holz,"noun, proper singular",25
+says,VBZ,VERB,Verb,say,"verb, 3rd person singular present",25
+number,NN,NOUN,Noun,number,"noun, singular or mass",25
+human,NN,NOUN,Noun,human,"noun, singular or mass",25
+caused,VBN,VERB,Verb,cause,"verb, past participle",25
+ignitions,NNS,NOUN,Noun,ignition,"noun, plural",25
+trending,VBG,VERB,Verb,trend,"verb, gerund or present participle",25
+believe,VB,VERB,Verb,believe,"verb, base form",25
+see,VBP,VERB,Verb,see,"verb, non-3rd person singular present",25
+news,NN,NOUN,Noun,news,"noun, singular or mass",25
+see,VBP,VERB,Verb,see,"verb, non-3rd person singular present",25
+outliers,NNS,NOUN,Noun,outlier,"noun, plural",25
+Spokane,NNP,PROPN,Proper Noun,spokane,"noun, proper singular",26
+fire,NN,NOUN,Noun,fire,"noun, singular or mass",26
+survivors,NNS,NOUN,Noun,survivor,"noun, plural",26
+Chris,NNP,PROPN,Proper Noun,chris,"noun, proper singular",26
+Matthews,NNP,PROPN,Proper Noun,matthews,"noun, proper singular",26
+left,VBN,VERB,Verb,leave,"verb, past participle",26
+struggling,VBG,VERB,Verb,struggle,"verb, gerund or present participle",26
+process,VB,VERB,Verb,process,"verb, base form",26
+started,VBN,VERB,Verb,start,"verb, past participle",26
+blaze,NN,NOUN,Noun,blaze,"noun, singular or mass",26
+ravaged,VBD,VERB,Verb,ravage,"verb, past tense",26
+city,NN,NOUN,Noun,city,"noun, singular or mass",26
+Hundreds,NNS,NOUN,Noun,hundred,"noun, plural",27
+homes,NNS,NOUN,Noun,home,"noun, plural",27
+burned,VBN,VERB,Verb,burn,"verb, past participle",27
+Old,NNP,PROPN,Proper Noun,old,"noun, proper singular",27
+Trails,NNP,PROPN,Proper Noun,trails,"noun, proper singular",27
+Fire,NNP,PROPN,Proper Noun,fire,"noun, proper singular",27
+including,VBG,VERB,Verb,include,"verb, gerund or present participle",27
+family,NN,NOUN,Noun,family,"noun, singular or mass",28
+lost,VBD,VERB,Verb,lose,"verb, past tense",28
+car,NN,NOUN,Noun,car,"noun, singular or mass",28
+escaped,VBD,VERB,Verb,escape,"verb, past tense",28
+flames,NNS,NOUN,Noun,flame,"noun, plural",28
+want,VBP,VERB,Verb,want,"verb, non-3rd person singular present",29
+understand,VB,VERB,Verb,understand,"verb, base form",29
+people,NNS,NOUN,Noun,people,"noun, plural",29
+do,VB,VERB,Verb,do,"verb, base form",29
+Matthews,NNP,PROPN,Proper Noun,matthews,"noun, proper singular",29
+says,VBZ,VERB,Verb,say,"verb, 3rd person singular present",29
+understand,VB,VERB,Verb,understand,"verb, base form",30
+ADRIAN,NNP,PROPN,Proper Noun,adrian,"noun, proper singular",31
+FLORIDO,NNP,PROPN,Proper Noun,florido,"noun, proper singular",31
+HOST,NNP,PROPN,Proper Noun,host,"noun, proper singular",31
+Reno,NNP,PROPN,Proper Noun,reno,"noun, proper singular",32
+Nevada,NNP,PROPN,Proper Noun,nevada,"noun, proper singular",32
+firefighters,NNS,NOUN,Noun,firefighter,"noun, plural",32
+making,VBG,VERB,Verb,make,"verb, gerund or present participle",32
+progress,NN,NOUN,Noun,progress,"noun, singular or mass",32
+slowing,VBG,VERB,Verb,slow,"verb, gerund or present participle",32
+wildfire,NN,NOUN,Noun,wildfire,"noun, singular or mass",32
+burned,VBN,VERB,Verb,burn,"verb, past participle",32
+homes,NNS,NOUN,Noun,home,"noun, plural",32
+forced,VBD,VERB,Verb,force,"verb, past tense",32
+tens,NNS,NOUN,Noun,ten,"noun, plural",32
+thousands,NNS,NOUN,Noun,thousand,"noun, plural",32
+people,NNS,NOUN,Noun,people,"noun, plural",32
+evacuate,VB,VERB,Verb,evacuate,"verb, base form",32
+West,NNP,PROPN,Proper Noun,west,"noun, proper singular",33
+fire,NN,NOUN,Noun,fire,"noun, singular or mass",33
+investigators,NNS,NOUN,Noun,investigator,"noun, plural",33
+believe,VBP,VERB,Verb,believe,"verb, non-3rd person singular present",33
+human,NN,NOUN,Noun,human,"noun, singular or mass",33
+caused,VBN,VERB,Verb,cause,"verb, past participle",33
+NPR,NNP,PROPN,Proper Noun,npr,"noun, proper singular",34
+Kirk,NNP,PROPN,Proper Noun,kirk,"noun, proper singular",34
+Siegler,NNP,PROPN,Proper Noun,siegler,"noun, proper singular",34
+reports,VBZ,VERB,Verb,report,"verb, 3rd person singular present",34
+blazes,NNS,NOUN,Noun,blaze,"noun, plural",34
+fires,NNS,NOUN,Noun,fire,"noun, plural",34
+KIRK,NNP,PROPN,Proper Noun,kirk,"noun, proper singular",35
+SIEGLER,NNP,PROPN,Proper Noun,siegler,"noun, proper singular",35
+BYLINE,NN,NOUN,Noun,byline,"noun, singular or mass",35
+days,NNS,NOUN,Noun,day,"noun, plural",36
+Old,NNP,PROPN,Proper Noun,old,"noun, proper singular",36
+Trails,NNP,PROPN,Proper Noun,trails,"noun, proper singular",36
+Fire,NNP,PROPN,Proper Noun,fire,"noun, proper singular",36
+burned,VBD,VERB,Verb,burn,"verb, past tense",36
+hundreds,NNS,NOUN,Noun,hundred,"noun, plural",36
+homes,NNS,NOUN,Noun,home,"noun, plural",36
+Spokane,NNP,PROPN,Proper Noun,spokane,"noun, proper singular",36
+County,NNP,PROPN,Proper Noun,county,"noun, proper singular",36
+Washington,NNP,PROPN,Proper Noun,washington,"noun, proper singular",36
+sheriff,NN,NOUN,Noun,sheriff,"noun, singular or mass",36
+John,NNP,PROPN,Proper Noun,john,"noun, proper singular",36
+Nowels,NNP,PROPN,Proper Noun,nowels,"noun, proper singular",36
+called,VBD,VERB,Verb,call,"verb, past tense",36
+press,NN,NOUN,Noun,press,"noun, singular or mass",36
+conference,NN,NOUN,Noun,conference,"noun, singular or mass",36
+announce,VB,VERB,Verb,announce,"verb, base form",36
+believe,VBP,VERB,Verb,believe,"verb, non-3rd person singular present",36
+fire,NN,NOUN,Noun,fire,"noun, singular or mass",36
+set,VBN,VERB,Verb,set,"verb, past participle",36
+SOUNDBITE,NNP,PROPN,Proper Noun,soundbite,"noun, proper singular",37
+PRESS,NNP,PROPN,Proper Noun,press,"noun, proper singular",37
+CONFERENCE,NNP,PROPN,Proper Noun,conference,"noun, proper singular",37
+JOHN,NNP,PROPN,Proper Noun,john,"noun, proper singular",38
+NOWELS,VBZ,VERB,Verb,nowel,"verb, 3rd person singular present",38
+took,VBD,VERB,Verb,take,"verb, past tense",38
+year,NN,NOUN,Noun,year,"noun, singular or mass",38
+Aaron,NNP,PROPN,Proper Noun,aaron,"noun, proper singular",38
+Farinacci,NNP,PROPN,Proper Noun,farinacci,"noun, proper singular",38
+convicted,VBN,VERB,Verb,convict,"verb, past participle",38
+felon,NN,NOUN,Noun,felon,"noun, singular or mass",38
+custody,NN,NOUN,Noun,custody,"noun, singular or mass",38
+charge,NN,NOUN,Noun,charge,"noun, singular or mass",38
+arson,NN,NOUN,Noun,arson,"noun, singular or mass",38
+degree,NN,NOUN,Noun,degree,"noun, singular or mass",38
+SIEGLER,NNS,NOUN,Noun,siegler,"noun, plural",39
+Court,NN,NOUN,Noun,court,"noun, singular or mass",39
+documents,NNS,NOUN,Noun,document,"noun, plural",39
+show,VBP,VERB,Verb,show,"verb, non-3rd person singular present",39
+Farinacci,NNP,PROPN,Proper Noun,farinacci,"noun, proper singular",39
+told,VBD,VERB,Verb,tell,"verb, past tense",39
+police,NNS,NOUN,Noun,police,"noun, plural",39
+started,VBD,VERB,Verb,start,"verb, past tense",39
+dozen,NN,NOUN,Noun,dozen,"noun, singular or mass",39
+wildfires,NNS,NOUN,Noun,wildfire,"noun, plural",39
+including,VBG,VERB,Verb,include,"verb, gerund or present participle",39
+Old,NNP,PROPN,Proper Noun,old,"noun, proper singular",39
+Trails,NNP,PROPN,Proper Noun,trails,"noun, proper singular",39
+Authorities,NNS,NOUN,Noun,authority,"noun, plural",40
+say,VBP,VERB,Verb,say,"verb, non-3rd person singular present",40
+watched,VBD,VERB,Verb,watch,"verb, past tense",40
+fire,NN,NOUN,Noun,fire,"noun, singular or mass",40
+weather,NN,NOUN,Noun,weather,"noun, singular or mass",40
+apps,NNS,NOUN,Noun,app,"noun, plural",40
+waited,VBD,VERB,Verb,wait,"verb, past tense",40
+conditions,NNS,NOUN,Noun,condition,"noun, plural",40
+do,VB,VERB,Verb,do,"verb, base form",40
+damage,NN,NOUN,Noun,damage,"noun, singular or mass",40
+weekend,NN,NOUN,Noun,weekend,"noun, singular or mass",41
+were,VBD,VERB,Verb,be,"verb, past tense",41
+warnings,NNS,NOUN,Noun,warning,"noun, plural",41
+heat,NN,NOUN,Noun,heat,"noun, singular or mass",41
+wind,NN,NOUN,Noun,wind,"noun, singular or mass",41
+Northwest,NNP,PROPN,Proper Noun,northwest,"noun, proper singular",41
+SOUNDBITE,NNP,PROPN,Proper Noun,soundbite,"noun, proper singular",42
+PRESS,NNP,PROPN,Proper Noun,press,"noun, proper singular",42
+CONFERENCE,NNP,PROPN,Proper Noun,conference,"noun, proper singular",42
+NOWELS,VBZ,VERB,Verb,nowel,"verb, 3rd person singular present",42
+origin,NN,NOUN,Noun,origin,"noun, singular or mass",42
+fire,NN,NOUN,Noun,fire,"noun, singular or mass",42
+witnesses,NNS,NOUN,Noun,witness,"noun, plural",42
+seen,VBN,VERB,Verb,see,"verb, past participle",42
+Mr.,NNP,PROPN,Proper Noun,mr.,"noun, proper singular",42
+Farinacci,NNP,PROPN,Proper Noun,farinacci,"noun, proper singular",42
+kneeling,NN,NOUN,Noun,kneeling,"noun, singular or mass",42
+grass,NN,NOUN,Noun,grass,"noun, singular or mass",42
+day,NN,NOUN,Noun,day,"noun, singular or mass",42
+SIEGLER,NNS,NOUN,Noun,siegler,"noun, plural",43
+Farinacci,NNP,PROPN,Proper Noun,farinacci,"noun, proper singular",44
+faces,VBZ,VERB,Verb,face,"verb, 3rd person singular present",44
+arson,NN,NOUN,Noun,arson,"noun, singular or mass",44
+charges,NNS,NOUN,Noun,charge,"noun, plural",44
+wildfires,NNS,NOUN,Noun,wildfire,"noun, plural",44
+year,NN,NOUN,Noun,year,"noun, singular or mass",44
+Spokane,NNP,PROPN,Proper Noun,spokane,"noun, proper singular",44
+fits,VBZ,VERB,Verb,fit,"verb, 3rd person singular present",45
+story,NN,NOUN,Noun,story,"noun, singular or mass",45
+data,NNS,NOUN,Noun,datum,"noun, plural",46
+shows,VBZ,VERB,Verb,show,"verb, 3rd person singular present",46
+quarters,NNS,NOUN,Noun,quarter,"noun, plural",46
+wildfires,NNS,NOUN,Noun,wildfire,"noun, plural",46
+U.S.,NNP,PROPN,Proper Noun,u.s.,"noun, proper singular",46
+caused,VBN,VERB,Verb,cause,"verb, past participle",46
+people,NNS,NOUN,Noun,people,"noun, plural",46
+arson,NN,NOUN,Noun,arson,"noun, singular or mass",46
+negligence,NN,NOUN,Noun,negligence,"noun, singular or mass",46
+burn,VB,VERB,Verb,burn,"verb, base form",46
+piles,NNS,NOUN,Noun,pile,"noun, plural",46
+campfire,NN,NOUN,Noun,campfire,"noun, singular or mass",46
+put,VBN,VERB,Verb,put,"verb, past participle",46
+Kelly,NNP,PROPN,Proper Noun,kelly,"noun, proper singular",47
+Pohl,NNP,PROPN,Proper Noun,pohl,"noun, proper singular",47
+Montana,NNP,PROPN,Proper Noun,montana,"noun, proper singular",47
+based,VBN,VERB,Verb,base,"verb, past participle",47
+think,NN,NOUN,Noun,think,"noun, singular or mass",47
+tank,NN,NOUN,Noun,tank,"noun, singular or mass",47
+Headwaters,NNP,PROPN,Proper Noun,headwaters,"noun, proper singular",47
+Economics,NNP,PROPN,Proper Noun,economics,"noun, proper singular",47
+KELLY,NNP,PROPN,Proper Noun,kelly,"noun, proper singular",48
+POHL,NNP,PROPN,Proper Noun,pohl,"noun, proper singular",48
+car,NN,NOUN,Noun,car,"noun, singular or mass",48
+lawnmower,NN,NOUN,Noun,lawnmower,"noun, singular or mass",48
+campfire,NN,NOUN,Noun,campfire,"noun, singular or mass",48
+downed,VBN,VERB,Verb,down,"verb, past participle",48
+power,NN,NOUN,Noun,power,"noun, singular or mass",48
+line,NN,NOUN,Noun,line,"noun, singular or mass",48
+subdivision,NN,NOUN,Noun,subdivision,"noun, singular or mass",48
+drivers,NNS,NOUN,Noun,driver,"noun, plural",48
+wildfire,NN,NOUN,Noun,wildfire,"noun, singular or mass",48
+ignitions,NNS,NOUN,Noun,ignition,"noun, plural",48
+happen,VBP,VERB,Verb,happen,"verb, non-3rd person singular present",48
+are,VBP,VERB,Verb,be,"verb, non-3rd person singular present",48
+people,NNS,NOUN,Noun,people,"noun, plural",48
+SIEGLER,NNS,NOUN,Noun,siegler,"noun, plural",49
+Pohl,NNP,PROPN,Proper Noun,pohl,"noun, proper singular",50
+says,VBZ,VERB,Verb,say,"verb, 3rd person singular present",50
+people,NNS,NOUN,Noun,people,"noun, plural",50
+tend,VBP,VERB,Verb,tend,"verb, non-3rd person singular present",50
+start,VB,VERB,Verb,start,"verb, base form",50
+wildfires,NNS,NOUN,Noun,wildfire,"noun, plural",50
+areas,NNS,NOUN,Noun,area,"noun, plural",50
+POHL,NNS,NOUN,Noun,pohl,"noun, plural",51
+people,NNS,NOUN,Noun,people,"noun, plural",52
+moving,VBG,VERB,Verb,move,"verb, gerund or present participle",52
+places,NNS,NOUN,Noun,place,"noun, plural",52
+growth,NN,NOUN,Noun,growth,"noun, singular or mass",52
+drive,VB,VERB,Verb,drive,"verb, base form",52
+human,NN,NOUN,Noun,human,"noun, singular or mass",52
+caused,VBN,VERB,Verb,cause,"verb, past participle",52
+ignitions,NNS,NOUN,Noun,ignition,"noun, plural",52
+SIEGLER,NNS,NOUN,Noun,siegler,"noun, plural",53
+Studies,NNS,NOUN,Noun,study,"noun, plural",53
+California,NNP,PROPN,Proper Noun,california,"noun, proper singular",53
+show,VBP,VERB,Verb,show,"verb, non-3rd person singular present",53
+human,NN,NOUN,Noun,human,"noun, singular or mass",53
+caused,VBN,VERB,Verb,cause,"verb, past participle",53
+fires,NNS,NOUN,Noun,fire,"noun, plural",53
+Think,VB,VERB,Verb,think,"verb, base form",54
+power,NN,NOUN,Noun,power,"noun, singular or mass",54
+lines,NNS,NOUN,Noun,line,"noun, plural",54
+ignited,VBD,VERB,Verb,ignite,"verb, past tense",54
+Eaton,NNP,PROPN,Proper Noun,eaton,"noun, proper singular",54
+Fire,NNP,PROPN,Proper Noun,fire,"noun, proper singular",54
+LA,NNP,PROPN,Proper Noun,la,"noun, proper singular",54
+County,NNP,PROPN,Proper Noun,county,"noun, proper singular",54
+campfire,NN,NOUN,Noun,campfire,"noun, singular or mass",54
+Paradise,NNP,PROPN,Proper Noun,paradise,"noun, proper singular",54
+Andres,NNP,PROPN,Proper Noun,andres,"noun, proper singular",55
+Holz,NNP,PROPN,Proper Noun,holz,"noun, proper singular",55
+climate,NN,NOUN,Noun,climate,"noun, singular or mass",55
+scientist,NN,NOUN,Noun,scientist,"noun, singular or mass",55
+Portland,NNP,PROPN,Proper Noun,portland,"noun, proper singular",55
+State,NNP,PROPN,Proper Noun,state,"noun, proper singular",55
+University,NNP,PROPN,Proper Noun,university,"noun, proper singular",55
+says,VBZ,VERB,Verb,say,"verb, 3rd person singular present",56
+ANDRES,NNP,PROPN,Proper Noun,andres,"noun, proper singular",57
+HOLZ,NNP,PROPN,Proper Noun,holz,"noun, proper singular",57
+have,VBP,VERB,Verb,have,"verb, non-3rd person singular present",57
+course,NN,NOUN,Noun,course,"noun, singular or mass",57
+background,NN,NOUN,Noun,background,"noun, singular or mass",57
+have,VBP,VERB,Verb,have,"verb, non-3rd person singular present",57
+climate,NN,NOUN,Noun,climate,"noun, singular or mass",57
+change,NN,NOUN,Noun,change,"noun, singular or mass",57
+makes,VBZ,VERB,Verb,make,"verb, 3rd person singular present",57
+vegetation,NN,NOUN,Noun,vegetation,"noun, singular or mass",57
+call,VBP,VERB,Verb,call,"verb, non-3rd person singular present",57
+fuels,NNS,NOUN,Noun,fuel,"noun, plural",57
+have,VBP,VERB,Verb,have,"verb, non-3rd person singular present",58
+season,NN,NOUN,Noun,season,"noun, singular or mass",58
+fuels,NNS,NOUN,Noun,fuel,"noun, plural",58
+lot,NN,NOUN,Noun,lot,"noun, singular or mass",58
+SIEGLER,NNS,NOUN,Noun,siegler,"noun, plural",59
+cause,NN,NOUN,Noun,cause,"noun, singular or mass",60
+fires,NNS,NOUN,Noun,fire,"noun, plural",60
+acres,NNS,NOUN,Noun,acre,"noun, plural",61
+burned,VBN,VERB,Verb,burn,"verb, past participle",61
+Oregon,NNP,PROPN,Proper Noun,oregon,"noun, proper singular",61
+summer,NN,NOUN,Noun,summer,"noun, singular or mass",61
+lightning,NN,NOUN,Noun,lightning,"noun, singular or mass",61
+strikes,NNS,NOUN,Noun,strike,"noun, plural",61
+picture,NN,NOUN,Noun,picture,"noun, singular or mass",62
+wildland,NN,NOUN,Noun,wildland,"noun, singular or mass",62
+firefighters,NNS,NOUN,Noun,firefighter,"noun, plural",62
+gotten,VBN,VERB,Verb,get,"verb, past participle",62
+putting,VBG,VERB,Verb,put,"verb, gerund or present participle",62
+fires,NNS,NOUN,Noun,fire,"noun, plural",62
+Researchers,NNS,NOUN,Noun,researcher,"noun, plural",63
+say,VBP,VERB,Verb,say,"verb, non-3rd person singular present",63
+is,VBZ,VERB,Verb,be,"verb, 3rd person singular present",63
+awareness,NN,NOUN,Noun,awareness,"noun, singular or mass",63
+today,NN,NOUN,Noun,today,"noun, singular or mass",63
+risks,NNS,NOUN,Noun,risk,"noun, plural",63
+Holz,NNP,PROPN,Proper Noun,holz,"noun, proper singular",64
+says,VBZ,VERB,Verb,say,"verb, 3rd person singular present",64
+number,NN,NOUN,Noun,number,"noun, singular or mass",64
+human,NN,NOUN,Noun,human,"noun, singular or mass",64
+caused,VBN,VERB,Verb,cause,"verb, past participle",64
+ignitions,NNS,NOUN,Noun,ignition,"noun, plural",64
+trending,VBG,VERB,Verb,trend,"verb, gerund or present participle",64
+HOLZ,NNP,PROPN,Proper Noun,holz,"noun, proper singular",65
+believe,VB,VERB,Verb,believe,"verb, base form",65
+see,VBP,VERB,Verb,see,"verb, non-3rd person singular present",65
+news,NN,NOUN,Noun,news,"noun, singular or mass",65
+see,VBP,VERB,Verb,see,"verb, non-3rd person singular present",65
+outliers,NNS,NOUN,Noun,outlier,"noun, plural",65
+SIEGLER,NNS,NOUN,Noun,siegler,"noun, plural",66
+fires,NNS,NOUN,Noun,fire,"noun, plural",67
+Reno,NNP,PROPN,Proper Noun,reno,"noun, proper singular",67
+Spokane,NNP,PROPN,Proper Noun,spokane,"noun, proper singular",67
+month,NN,NOUN,Noun,month,"noun, singular or mass",67
+Authorities,NNS,NOUN,Noun,authority,"noun, plural",68
+Reno,NNP,PROPN,Proper Noun,reno,"noun, proper singular",68
+said,VBN,VERB,Verb,say,"verb, past participle",68
+believe,VBP,VERB,Verb,believe,"verb, non-3rd person singular present",68
+Hawk,NNP,PROPN,Proper Noun,hawk,"noun, proper singular",68
+Fire,NNP,PROPN,Proper Noun,fire,"noun, proper singular",68
+human,NN,NOUN,Noun,human,"noun, singular or mass",68
+caused,VBN,VERB,Verb,cause,"verb, past participle",68
+Spokane,NN,NOUN,Noun,spokane,"noun, singular or mass",69
+fire,NN,NOUN,Noun,fire,"noun, singular or mass",69
+victims,NNS,NOUN,Noun,victim,"noun, plural",69
+Chris,NNP,PROPN,Proper Noun,chris,"noun, proper singular",69
+Matthews,NNP,PROPN,Proper Noun,matthews,"noun, proper singular",69
+left,VBN,VERB,Verb,leave,"verb, past participle",69
+struggling,VBG,VERB,Verb,struggle,"verb, gerund or present participle",69
+process,VB,VERB,Verb,process,"verb, base form",69
+started,VBN,VERB,Verb,start,"verb, past participle",69
+fire,NN,NOUN,Noun,fire,"noun, singular or mass",69
+ravaged,VBD,VERB,Verb,ravage,"verb, past tense",69
+city,NN,NOUN,Noun,city,"noun, singular or mass",69
+CHRIS,NNP,PROPN,Proper Noun,chris,"noun, proper singular",70
+MATTHEWS,NNP,PROPN,Proper Noun,matthews,"noun, proper singular",70
+understand,VB,VERB,Verb,understand,"verb, base form",71
+rationale,NN,NOUN,Noun,rationale,"noun, singular or mass",71
+want,VBP,VERB,Verb,want,"verb, non-3rd person singular present",72
+understand,VB,VERB,Verb,understand,"verb, base form",72
+people,NNS,NOUN,Noun,people,"noun, plural",72
+do,VB,VERB,Verb,do,"verb, base form",72
+SIEGLER,NNS,NOUN,Noun,siegler,"noun, plural",73
+Matthews,NNS,NOUN,Noun,matthew,"noun, plural",74
+lost,VBD,VERB,Verb,lose,"verb, past tense",74
+car,NN,NOUN,Noun,car,"noun, singular or mass",74
+family,NN,NOUN,Noun,family,"noun, singular or mass",74
+evacuated,VBN,VERB,Verb,evacuate,"verb, past participle",74
+Hundreds,NNS,NOUN,Noun,hundred,"noun, plural",75
+homes,NNS,NOUN,Noun,home,"noun, plural",75
+burned,VBN,VERB,Verb,burn,"verb, past participle",75
+including,VBG,VERB,Verb,include,"verb, gerund or present participle",75
+see,VBP,VERB,Verb,see,"verb, non-3rd person singular present",77
+PERSON,NN,NOUN,Noun,person,"noun, singular or mass",78
+ph,NNP,PROPN,Proper Noun,ph,"noun, proper singular",79
+MATTHEWS,NNP,PROPN,Proper Noun,matthews,"noun, proper singular",80
+mailbox,NN,NOUN,Noun,mailbox,"noun, singular or mass",80
+home,NN,NOUN,Noun,home,"noun, singular or mass",81
+end,NN,NOUN,Noun,end,"noun, singular or mass",81
+SIEGLER,NNS,NOUN,Noun,siegler,"noun, plural",82
+loss,NN,NOUN,Noun,loss,"noun, singular or mass",83
+says,VBZ,VERB,Verb,say,"verb, 3rd person singular present",83
+loss,NN,NOUN,Noun,loss,"noun, singular or mass",84
+authorities,NNS,NOUN,Noun,authority,"noun, plural",84
+believe,VBP,VERB,Verb,believe,"verb, non-3rd person singular present",84
+arsonist,NN,NOUN,Noun,arsonist,"noun, singular or mass",84
+Kirk,NNP,PROPN,Proper Noun,kirk,"noun, proper singular",85
+Siegler,NNP,PROPN,Proper Noun,siegler,"noun, proper singular",85
+NPR,NNP,PROPN,Proper Noun,npr,"noun, proper singular",85
+News,NNP,PROPN,Proper Noun,news,"noun, proper singular",85
+Spokane,NNP,PROPN,Proper Noun,spokane,"noun, proper singular",85
+Washington,NNP,PROPN,Proper Noun,washington,"noun, proper singular",85
+Topics,NNS,NOUN,Noun,topic,"noun, plural",86

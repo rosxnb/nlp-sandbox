@@ -1,0 +1,8 @@
+w1,w2,"Count(w1,w2)",Count(w1),P(w2|w1)
+I,like,3,4,0.75
+I,love,1,4,0.25
+You,like,1,1,1.0
+like,coffee,2,4,0.5
+like,NLP,1,4,0.25
+like,Python,1,4,0.25
+love,NLP,1,1,1.0
